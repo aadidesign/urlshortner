@@ -112,6 +112,15 @@ For production deployment, ensure you:
 - Set secure environment variables
 - Use a reverse proxy (nginx/Apache)
 
+## Roadmap
+
+Planned features and improvements for future releases:
+
+- [ ] User authentication and personal dashboards
+- [ ] QR code generation for short URLs
+- [ ] Custom expiration dates for links
+- [ ] API key support for developers
+
 ## License
 
 MIT
